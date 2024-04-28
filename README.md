@@ -1,4 +1,3 @@
-![image](https://github.com/ernanyJ/indietripper-hackatur/assets/124080522/8e2bfe82-30ef-422d-a332-8c7ef23005bb)
 # IndieTrippers
 
 Projeto desenvolvido durante a hackatur do salão internacional de turismo em 2024, realizado em Roraima.
