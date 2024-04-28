@@ -12,4 +12,15 @@ O repositório consiste em duas pastas, uma é uma versão interativa num termin
 
 A versão mobile, por outro lado, após inserir a query, ele busca a latitude e longitude de um lugar específico, e começa a fazer perguntas para entender o perfil do usuário, qual seu budget, qual seu tipo de viagem favorito, como ele quer organizar suas finanças, mas não está finalizado.
 
-# (OBS) A API KEY UTILIZADA PARA RECUPERAR OS DADOS FOI DESATIVADA, VISTO QUE ESTAVA VINCULADA AO CARTÃO DE CRÉDITO PESSOAL DE UM DOS MEMBROS DA EQUIPE.
+Já tendo uma parte que acessa hotéis, restaurantes e atrações a partir de um local (lat e long), e outra parte que armazena e entende o perfil (preferências, orçamento...) do usuário, falta apenas integrar as duas.
+
+
+## Screenshots
+
+![App Screenshot](https://prnt.sc/jryA36Bywjpr)
+![App Screenshot](https://prnt.sc/0ljhWu1XC0Yy)
+![App Screenshot](https://prnt.sc/0ljhWu1XC0Yy)
+![App Screenshot](https://prnt.sc/O4ASBZJ9xGcu)
+
+
+(OBS) A API KEY UTILIZADA PARA RECUPERAR OS DADOS FOI DESATIVADA, VISTO QUE ESTAVA VINCULADA AO CARTÃO DE CRÉDITO PESSOAL DE UM DOS MEMBROS DA EQUIPE.
