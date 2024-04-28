@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "location_id": "303506",
+      "name": "Rio de Janeiro",
+      "address_obj": {
+        "street1": "",
+        "street2": "",
+        "state": "State of Rio de Janeiro",
+        "country": "Brazil",
+        "postalcode": "",
+        "address_string": "Rio de Janeiro, State of Rio de Janeiro Brazil"
+      }
+    },
+    {
+      "location_id": "147312",
+      "name": "Ocho Rios",
+      "address_obj": {
+        "city": "Jamaica",
+        "state": "Jamaica",
+        "country": "Caribbean",
+        "address_string": "Ocho Rios Jamaica"
+      }
+    },
+    {
+      "location_id": "1028492",
+      "name": "Rio Cuarto",
+      "address_obj": {
+        "street1": "",
+        "street2": "",
+        "city": "Central Argentina",
+        "state": "Province of Cordoba",
+        "country": "Argentina",
+        "postalcode": "",
+        "address_string": "Rio Cuarto Argentina"
+      }
+    },
+    {
+      "location_id": "154245",
+      "name": "Boca del Rio",
+      "address_obj": {
+        "city": "Central Mexico and Gulf Coast",
+        "state": "Veracruz",
+        "country": "Mexico",
+        "address_string": "Boca del Rio Mexico"
+      }
+    },
+    {
+      "location_id": "312852",
+      "name": "Rio Gallegos",
+      "address_obj": {
+        "street1": "",
+        "street2": "",
+        "city": "Patagonia",
+        "state": "Province of Santa Cruz",
+        "country": "Argentina",
+        "postalcode": "",
+        "address_string": "Rio Gallegos Argentina"
+      }
+    },
+    {
+      "location_id": "312820",
+      "name": "Termas de Rio Hondo",
+      "address_obj": {
+        "street1": "",
+        "street2": "",
+        "city": "Northern Argentina",
+        "state": "Province of Santiago del Estero",
+        "country": "Argentina",
+        "postalcode": "",
+        "address_string": "Termas de Rio Hondo Argentina"
+      }
+    },
+    {
+      "location_id": "1006845",
+      "name": "Rio Grande",
+      "address_obj": {
+        "street1": "",
+        "street2": "",
+        "city": "Puerto Rico",
+        "state": "Puerto Rico",
+        "country": "Caribbean",
+        "postalcode": "",
+        "address_string": "Rio Grande Puerto Rico"
+      }
+    },
+    {
+      "location_id": "1168987",
+      "name": "Rio Lagartos",
+      "address_obj": {
+        "street1": "",
+        "street2": "",
+        "city": "Yucatan Peninsula",
+        "state": "Yucatan",
+        "country": "Mexico",
+        "postalcode": "",
+        "address_string": "Rio Lagartos Mexico"
+      }
+    },
+    {
+      "location_id": "312795",
+      "name": "Province of Entre Rios",
+      "address_obj": {
+        "street1": "",
+        "street2": "",
+        "city": "Litoral",
+        "country": "Argentina",
+        "postalcode": "",
+        "address_string": "Argentina"
+      }
+    },
+    {
+      "location_id": "3181066",
+      "name": "Rio Verde",
+      "address_obj": {
+        "city": "Central Mexico and Gulf Coast",
+        "state": "San Luis Potosi",
+        "country": "Mexico",
+        "address_string": "Rio Verde Mexico"
+      }
+    }
+  ]
+}
